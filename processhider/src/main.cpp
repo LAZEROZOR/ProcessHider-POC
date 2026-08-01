@@ -1,20 +1,3 @@
-//***************************************************************//
-//                                                               //
-//  Project : Hidden Process                                     //
-//  Description : Hides a process from Task Manager and          //
-//                similar process monitoring tools               //
-//                                                               //
-//  Author      : LAZEROZOR                                      //
-//  License     : Open Source - Educational use only             //
-//  Date        : 2025                                           //
-//                                                               //
-//  Warning     : For educational and testing purposes only.     //
-//                Use responsibly and ethically.                 //
-//                                                               //
-//  Credits     : guidedhacking.com for game hacking knowledge   //
-//                                                               //
-//***************************************************************//
-
 #define _CRT_SECURE_NO_WARNINGS //So we can use old functions without warnings
 
 #include "../headers/defines.h"
